@@ -46,6 +46,9 @@ Cette configuration est typique d’un temps **stratiforme**, avec Sc/As, éclai
 
 ## 3. Résultats principaux de l’analyse de l’émagramme
 
+**Illustration (émagramme / Skew-T) :**  
+![Nîmes radiosounding](graphe_images_resume/Nimes_radiosondage.png)
+
 ### 3.1 Surface 1000 hPa
 
 - Altitude de la surface **1000 hPa** : ~122 m (≈ 62 m au-dessus de la station).  
