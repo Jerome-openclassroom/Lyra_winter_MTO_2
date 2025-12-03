@@ -16,16 +16,16 @@ L’objectif principal est **pédagogique** :
 ## 1. Arborescence du dépôt
 
 ```text
-.
-├── README.md              # Version anglaise (résumé)
-├── README_fr.md           # Version française détaillée
-└── graphe_images_resume/
-    ├── analyse_emagramme.pdf
-    ├── composition_IR_visible.png
-    ├── Nimes_radiosondage.png
-    ├── pressions.png
-    ├── nebulosite_octas.png
-    └── Visible.png
+├── README.md                        # Documentation en anglais (résumé de l'étude de cas)
+├── README_fr.md                     # Documentation détaillée en français
+└── graphe_images_resume/            # Dossier contenant tous les graphiques et illustrations
+    ├── analyse_emagramme.pdf        # Analyse complète en PDF du Skew-T de Nîmes/Courbessac (profil thermodynamique)
+    ├── composition_IR_visible.png   # Composite RGB Meteosat 12 (visible + IR) montrant la température et la structure du sommet des nuages
+    ├── Nimes_radiosondage.png       # Image Skew-T / émagramme du radiosondage de Nîmes du 2 décembre 2025
+    ├── pressions.png                # Carte des pressions au niveau de la mer en France (contexte synoptique)
+    ├── nebulosite_octas.png         # Carte de la nébulosité (en octas) pour la même date/heure
+    └── Visible.png                  # Image du canal visible Meteosat 12 (morphologie des nuages, structures stratiformes)
+
 ```
 
 ---
