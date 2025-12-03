@@ -49,6 +49,10 @@ Overall: a **stratiform weather regime**, with layered Sc/As clouds and weak dyn
 
 ## 3. Main results from the Skew‑T analysis
 
+**Illustration (Skew-T / emagram):**  
+![Nîmes radiosounding](graphe_images_resume/Nimes_radiosondage.png)
+
+
 ### 3.1 1000 hPa surface
 
 The **1000 hPa** level is found around **122 m** (≈ 62 m above station elevation).
@@ -111,6 +115,10 @@ A saturated layer appears between **4040 m and 4302 m**:
 
 ### 4.1 Meteosat 12 visible
 
+**Illustration:**  
+![Meteosat 12 – Visible channel](graphe_images_resume/Visible.png)
+
+
 The visible image shows:
 
 - a **smooth, continuous north–south cloud band**,  
@@ -119,6 +127,10 @@ The visible image shows:
 
 ### 4.2 IR / visible composite
 
+**Illustration:**  
+![IR / Visible composite](graphe_images_resume/composition_IR_visible.png)
+
+
 Colors over southeastern France (grey–blue, green–yellow) indicate:
 
 - **intermediate cloud-top temperatures**,  
@@ -126,6 +138,10 @@ Colors over southeastern France (grey–blue, green–yellow) indicate:
 - consistent with stratocumulus + altostratus.
 
 ### 4.3 Sea‑level pressure
+
+**Illustration:**  
+![Sea-level pressure map](graphe_images_resume/pressions.png)
+
 
 - depression over northern France,  
 - **weak gradients** and barometric slack over the south.
