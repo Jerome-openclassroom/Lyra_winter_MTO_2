@@ -113,6 +113,10 @@ L’image visible montre :
 
 ### 4.2 Composition IR / visible
 
+**Illustration :**  
+![IR / Visible composite](graphe_images_resume/composition_IR_visible.png)
+
+
 Les teintes gris‑bleu / vert‑jaune sur le sud-est de la France indiquent :
 
 - températures de sommet **intermédiaires**,  
@@ -120,6 +124,9 @@ Les teintes gris‑bleu / vert‑jaune sur le sud-est de la France indiquent :
 - cohérent avec l’ensemble stratocumulus + altostratus.
 
 ### 4.3 Pression au niveau de la mer
+
+**Illustration :**  
+![Sea-level pressure map](graphe_images_resume/pressions.png)
 
 La carte montre :
 
