@@ -18,15 +18,17 @@ The objective is **educational**:
 
 ```text
 .
-├── README.md              # English documentation (this file)
-├── README_fr.md           # French detailed version
-└── graphe_images_resume/
-    ├── analyse_emagramme.pdf
-    ├── composition_IR_visible.png
-    ├── Nimes_radiosondage.png
-    ├── pressions.png
-    ├── nebulosite_octas.png
-    └── Visible.png
+.
+├── README.md                        # English documentation (summary of the case study)
+├── README_fr.md                     # Detailed French documentation
+└── graphe_images_resume/            # Folder containing all graphics and illustrations
+    ├── analyse_emagramme.pdf        # Full PDF analysis of the Nîmes/Courbessac Skew-T (thermodynamic profile)
+    ├── composition_IR_visible.png   # Meteosat 12 RGB composite (visible + IR) showing cloud-top temperature and structure
+    ├── Nimes_radiosondage.png       # Skew-T / emagram image for the 2 Dec 2025 Nîmes radiosounding
+    ├── pressions.png                # Sea-level pressure map of France (synoptic context)
+    ├── nebulosite_octas.png         # Cloud-cover map (in octas) for the same date/time
+    └── Visible.png                  # Meteosat 12 visible channel image (cloud morphology, stratiform structures)
+
 ```
 
 ---
