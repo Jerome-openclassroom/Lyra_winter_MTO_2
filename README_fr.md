@@ -101,6 +101,10 @@ Elle correspond à une portion de l’atmosphère **modérément stable et neutr
 
 ### 4.1 Satellite visible Meteosat 12
 
+**Illustration :**  
+![Visible Meteosat 12](graphe_images_resume/Visible.png)
+
+
 L’image visible montre :
 
 - une bande nuageuse **continue, lisse, étirée nord–sud**,  
